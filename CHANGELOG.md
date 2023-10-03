@@ -1,5 +1,11 @@
 # Changelog
 
+## [10.2.1](https://github.com/npm/cli/compare/v10.2.0...v10.2.1) (2023-10-03)
+
+### Documentation
+
+* [`2e4b4ad`](https://github.com/npm/cli/commit/2e4b4ad8bef158def1b2302846ab294fe7a83de4) [#6861](https://github.com/npm/cli/pull/6861) npm publish content modification (#6861) (@jpg619)
+
 ## [10.2.0](https://github.com/npm/cli/compare/v10.1.0...v10.2.0) (2023-10-02)
 
 ### Features
